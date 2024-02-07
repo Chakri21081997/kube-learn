@@ -22,7 +22,7 @@ Before diving into Kubernetes, ensure that you have the following installed:
 
 ## How to Use This Repository
 
-1. **Clone the Repository:**
+1. **Clone the Repository:** https://github.com/Chakri21081997/kube-learn.git
 
 2. **Navigate to the Project:**
 
