@@ -22,9 +22,9 @@ Before diving into Kubernetes, ensure that you have the following installed:
 
 ## How to Use This Repository
 
-1. **Clone the Repository:**
+1. **Clone the Repository:** https://github.com/Chakri21081997/kube-learn.git
 
-2. **Navigate to the Project:**
+2. **Navigate to the Project:** https://github.com/Chakri21081997/kube-learn/blob/master/README.md
 
 3. **Follow the Lessons:**
 Explore the 'lessons' directory for structured learning modules. Each lesson provides clear instructions and hands-on exercises.
