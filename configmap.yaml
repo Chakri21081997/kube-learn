@@ -4,4 +4,3 @@ metadata:
   name: test-cm
 data:
   db-port: "3306"
-immutable: true
